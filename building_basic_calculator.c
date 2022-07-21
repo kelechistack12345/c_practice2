@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 int main(){
+// create a calculator with an integer value
 
 int num1;
 int num2;
@@ -11,6 +13,8 @@ scanf("%d", &num1);
 printf("enter value: ");
 scanf("%d", &num2);
 printf("ans= %d \n",num1+num2);
+
+// create a calculator with a float value
 
 double num3;
 double num4;
