@@ -31,6 +31,7 @@ int main(){
 
     // if(3!=2) to check if 3 is not equal t0 2.
     // if (3==2) to check if 3 is equal to 2.
+    // if(!(3<2)) to negate an opretor this means to do the opposit of any operator
 
 
     if (3<2 || 2>5){
